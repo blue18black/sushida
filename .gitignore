@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# 実行時に生成されるファイル
+log.txt
+unknown.txt
+debug.png
+debug_full.png
+stuck/
